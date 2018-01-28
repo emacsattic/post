@@ -6,6 +6,8 @@
 ;;;          Rob Reid <rreid@nrao.edu>,
 ;;;          Roland Rosenfeld <roland@spinnaker.de>
 
+;; License: GPL
+
 ;; This is free software distributed under the GPL, yadda, yadda, yadda.
 ;; It has no warranty. See the GNU General Public License for more
 ;; information. Send us your feature requests and patches, and we'll try
